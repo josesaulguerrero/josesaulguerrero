@@ -1,4 +1,10 @@
-### Hi there 👋
+### It's me, Jose 🦊
+
+---
+
+I'm a web developer who builds friendly user interfaces using HTML, CSS, JavaScript, and React, following some good practices like reusable, clean, and readable code, which leads to accessible, fast and smooth experiences.
+
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=josesaulguerrero&show_icons=true&hide_border=true)
 
@@ -24,6 +30,10 @@
   <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
   <img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=white">
 </p>
+
+---
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josesaulguerrero&layout=compact)
 
 ---
 
