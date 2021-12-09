@@ -1,8 +1,9 @@
 ### It's me, Jose 🦊
 
----
+A 18 y.o. self-taught front-end developer who is always ready to learn more. I love building accessible and easy-to-use web applications and my goal is to create experiences that everyone will enjoy and remember.
 
-I'm a web developer who builds friendly user interfaces using HTML, CSS, JavaScript, and React, following some good practices like reusable, clean, and readable code, which leads to accessible, fast and smooth experiences.
+
+In 💚️ with technology and continuous learning.
 
 ---
 
@@ -32,6 +33,7 @@ I'm a web developer who builds friendly user interfaces using HTML, CSS, JavaScr
 </p>
 
 ---
+**Top langs**
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josesaulguerrero&layout=compact)
 
@@ -44,5 +46,3 @@ I'm a web developer who builds friendly user interfaces using HTML, CSS, JavaScr
 <a href="https://www.facebook.com/jose.guerreroserrano.1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://t.me/JoseSaul15" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://joseguerreroserrano.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-JoseSaul-000000?style=flat-square&logo=react&logoColor=white" alt="Personal website"></a>
-
----
