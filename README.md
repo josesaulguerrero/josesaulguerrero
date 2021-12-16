@@ -30,7 +30,7 @@ In 💚️ with technology and continuous learning.
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
   <img src="http://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&logoColor=white">
-</p>
+</p> 
 
 ---
 **Top langs**
